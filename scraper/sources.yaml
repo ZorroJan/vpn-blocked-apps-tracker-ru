@@ -1,0 +1,30 @@
+# Sources to scrape. Each source has a parser module in scraper/sources/
+# matching the `parser` field.
+#
+# To add a new source: add an entry here AND create scraper/sources/<parser>.py
+# with a parse(html: str) -> list[str] function returning app names.
+
+sources:
+  - id: hitech_mail
+    name: "Hi-Tech Mail"
+    url: "https://hi-tech.mail.ru/news/146088-kakie-rossijskie-servisy-ne-rabotayut-s-vpn-spisok/"
+    parser: hitech_mail
+    enabled: true
+
+  - id: rozetked
+    name: "Rozetked"
+    url: "https://rozetked.me/articles/45619-kakie-rossiyskie-prilozheniya-ne-rabotayut-s-vpn"
+    parser: rozetked
+    enabled: true
+
+  - id: kod_durova
+    name: "Код Дурова"
+    url: "https://kod.ru/ru-services-vpn"
+    parser: kod_durova
+    enabled: true
+
+  - id: meduza
+    name: "Meduza"
+    url: "https://meduza.io/feature/2026/04/16/krupneyshie-rossiyskie-servisy-zakryvayut-dostup-polzovatelyam-s-vklyuchennym-vpn"
+    parser: meduza
+    enabled: true
