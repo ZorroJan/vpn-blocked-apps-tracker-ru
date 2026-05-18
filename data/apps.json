@@ -1,4 +1,385 @@
 {
-  "updated_at": null,
-  "apps": []
+  "updated_at": "2026-05-18T20:24:22.205126+00:00",
+  "apps": [
+    {
+      "name": "2ГИС",
+      "category": "maps",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "HeadHunter",
+      "category": "jobs",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "Ozon",
+      "category": "marketplace",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "VK",
+      "category": "social",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "Wildberries",
+      "category": "marketplace",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "Авиасейлс",
+      "category": "travel",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "Авито",
+      "category": "marketplace",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "kod_durova",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "kod_durova",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "Госуслуги",
+      "category": "government",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "Детский мир",
+      "category": "retail",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "Кинопоиск",
+      "category": "streaming",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "МегаМаркет",
+      "category": "marketplace",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "Одноклассники",
+      "category": "social",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "РЖД",
+      "category": "travel",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "Самокат",
+      "category": "delivery",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "Яндекс Карты",
+      "category": "yandex_services",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "Яндекс Погода",
+      "category": "yandex_services",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "Яндекс Пэй",
+      "category": "payments",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail",
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "last_sources": [
+        "hitech_mail",
+        "kod_durova",
+        "meduza",
+        "rozetked"
+      ],
+      "confidence": "confirmed",
+      "status": "active"
+    },
+    {
+      "name": "DNS",
+      "category": "retail",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "meduza"
+      ],
+      "last_sources": [
+        "meduza"
+      ],
+      "confidence": "reported",
+      "status": "active"
+    },
+    {
+      "name": "Mail.ru",
+      "category": "mail",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "hitech_mail"
+      ],
+      "last_sources": [
+        "hitech_mail"
+      ],
+      "confidence": "reported",
+      "status": "active"
+    },
+    {
+      "name": "Золотое яблоко",
+      "category": "retail",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "meduza"
+      ],
+      "last_sources": [
+        "meduza"
+      ],
+      "confidence": "reported",
+      "status": "active"
+    },
+    {
+      "name": "Пятёрочка",
+      "category": "retail",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "meduza"
+      ],
+      "last_sources": [
+        "meduza"
+      ],
+      "confidence": "reported",
+      "status": "active"
+    },
+    {
+      "name": "Яндекс Go",
+      "category": "yandex_services",
+      "first_seen": "2026-05-18",
+      "last_confirmed": "2026-05-18",
+      "sources": [
+        "meduza"
+      ],
+      "last_sources": [
+        "meduza"
+      ],
+      "confidence": "reported",
+      "status": "active"
+    }
+  ]
 }
