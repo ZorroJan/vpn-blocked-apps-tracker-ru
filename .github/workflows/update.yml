@@ -1,6 +1,6 @@
-name: Daily update
+﻿name: Daily update
 
-on:
+"on":
   schedule:
     # Run every day at 06:00 UTC (09:00 Moscow time)
     - cron: '0 6 * * *'
