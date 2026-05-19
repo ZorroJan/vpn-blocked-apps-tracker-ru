@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-05-18T20:24:22.205126+00:00",
+  "updated_at": "2026-05-19T10:00:02.230534+00:00",
   "apps": [
     {
       "name": "2ГИС",
       "category": "maps",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "meduza",
@@ -23,7 +23,7 @@
       "name": "HeadHunter",
       "category": "jobs",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "meduza",
@@ -41,7 +41,7 @@
       "name": "Ozon",
       "category": "marketplace",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "kod_durova",
@@ -61,7 +61,7 @@
       "name": "VK",
       "category": "social",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "meduza",
@@ -79,7 +79,7 @@
       "name": "Wildberries",
       "category": "marketplace",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "kod_durova",
@@ -99,7 +99,7 @@
       "name": "Авиасейлс",
       "category": "travel",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "meduza",
         "rozetked"
@@ -115,7 +115,7 @@
       "name": "Авито",
       "category": "marketplace",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "kod_durova",
@@ -133,7 +133,7 @@
       "name": "Госуслуги",
       "category": "government",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "kod_durova",
@@ -142,7 +142,6 @@
       ],
       "last_sources": [
         "hitech_mail",
-        "kod_durova",
         "meduza",
         "rozetked"
       ],
@@ -153,7 +152,7 @@
       "name": "Детский мир",
       "category": "retail",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "kod_durova",
         "meduza",
@@ -171,7 +170,7 @@
       "name": "Кинопоиск",
       "category": "streaming",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "kod_durova",
@@ -191,7 +190,7 @@
       "name": "МегаМаркет",
       "category": "marketplace",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "rozetked"
@@ -207,7 +206,7 @@
       "name": "Одноклассники",
       "category": "social",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "rozetked"
@@ -223,7 +222,7 @@
       "name": "РЖД",
       "category": "travel",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "meduza",
@@ -241,7 +240,7 @@
       "name": "Самокат",
       "category": "delivery",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "meduza",
@@ -259,7 +258,7 @@
       "name": "Яндекс Карты",
       "category": "yandex_services",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "rozetked"
@@ -275,7 +274,7 @@
       "name": "Яндекс Погода",
       "category": "yandex_services",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "kod_durova",
@@ -295,7 +294,7 @@
       "name": "Яндекс Пэй",
       "category": "payments",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail",
         "kod_durova",
@@ -315,7 +314,7 @@
       "name": "DNS",
       "category": "retail",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "meduza"
       ],
@@ -329,7 +328,7 @@
       "name": "Mail.ru",
       "category": "mail",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "hitech_mail"
       ],
@@ -343,7 +342,7 @@
       "name": "Золотое яблоко",
       "category": "retail",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "meduza"
       ],
@@ -357,7 +356,7 @@
       "name": "Пятёрочка",
       "category": "retail",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "meduza"
       ],
@@ -371,7 +370,7 @@
       "name": "Яндекс Go",
       "category": "yandex_services",
       "first_seen": "2026-05-18",
-      "last_confirmed": "2026-05-18",
+      "last_confirmed": "2026-05-19",
       "sources": [
         "meduza"
       ],
