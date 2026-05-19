@@ -156,6 +156,18 @@ def main() -> int:
         )
     log.info(f"Saved snapshot {snapshot_path}")
 
+    # Simplified export for external apps
+    simple_path = DATA_DIR / "apps_simple.json"
+    simple_data = {
+        "updated_at": updated["updated_at"],
+        "apps": sorted(
+            app["name"] for app in updated["apps"] if app["status"] == "active"
+        ),
+    }
+    with open(simple_path, "w", encoding="utf-8") as f:
+        json.dump(simple_data, f, ensure_ascii=False, indent=2)
+    log.info(f"Saved {simple_path}")
+
     # README
     readme_content = generate_readme(updated, sources_config)
     save_readme(REPO_ROOT / "README.md", readme_content)
