@@ -1,0 +1,245 @@
+{
+  "date": "2026-07-01",
+  "run_results": {
+    "hitech_mail": [
+      {
+        "name": "Госуслуги",
+        "category": "government"
+      },
+      {
+        "name": "VK",
+        "category": "social"
+      },
+      {
+        "name": "Mail.ru",
+        "category": "mail"
+      },
+      {
+        "name": "Одноклассники",
+        "category": "social"
+      },
+      {
+        "name": "Wildberries",
+        "category": "marketplace"
+      },
+      {
+        "name": "Ozon",
+        "category": "marketplace"
+      },
+      {
+        "name": "МегаМаркет",
+        "category": "marketplace"
+      },
+      {
+        "name": "Авито",
+        "category": "marketplace"
+      },
+      {
+        "name": "Самокат",
+        "category": "delivery"
+      },
+      {
+        "name": "Кинопоиск",
+        "category": "streaming"
+      },
+      {
+        "name": "2ГИС",
+        "category": "maps"
+      },
+      {
+        "name": "HeadHunter",
+        "category": "jobs"
+      },
+      {
+        "name": "Яндекс Карты",
+        "category": "yandex_services"
+      },
+      {
+        "name": "Яндекс Погода",
+        "category": "yandex_services"
+      },
+      {
+        "name": "Яндекс Пэй",
+        "category": "payments"
+      },
+      {
+        "name": "РЖД",
+        "category": "travel"
+      }
+    ],
+    "rozetked": [
+      {
+        "name": "VK",
+        "category": "social"
+      },
+      {
+        "name": "Госуслуги",
+        "category": "government"
+      },
+      {
+        "name": "Кинопоиск",
+        "category": "streaming"
+      },
+      {
+        "name": "Одноклассники",
+        "category": "social"
+      },
+      {
+        "name": "Ozon",
+        "category": "marketplace"
+      },
+      {
+        "name": "Wildberries",
+        "category": "marketplace"
+      },
+      {
+        "name": "Авито",
+        "category": "marketplace"
+      },
+      {
+        "name": "Самокат",
+        "category": "delivery"
+      },
+      {
+        "name": "МегаМаркет",
+        "category": "marketplace"
+      },
+      {
+        "name": "Детский мир",
+        "category": "retail"
+      },
+      {
+        "name": "Яндекс Пэй",
+        "category": "payments"
+      },
+      {
+        "name": "Яндекс Карты",
+        "category": "yandex_services"
+      },
+      {
+        "name": "Яндекс Погода",
+        "category": "yandex_services"
+      },
+      {
+        "name": "2ГИС",
+        "category": "maps"
+      },
+      {
+        "name": "РЖД",
+        "category": "travel"
+      },
+      {
+        "name": "Авиасейлс",
+        "category": "travel"
+      },
+      {
+        "name": "HeadHunter",
+        "category": "jobs"
+      }
+    ],
+    "kod_durova": [
+      {
+        "name": "РЖД",
+        "category": "travel"
+      },
+      {
+        "name": "Ozon",
+        "category": "marketplace"
+      },
+      {
+        "name": "Wildberries",
+        "category": "marketplace"
+      },
+      {
+        "name": "Кинопоиск",
+        "category": "streaming"
+      },
+      {
+        "name": "Яндекс Пэй",
+        "category": "payments"
+      },
+      {
+        "name": "Яндекс Погода",
+        "category": "yandex_services"
+      },
+      {
+        "name": "Детский мир",
+        "category": "retail"
+      },
+      {
+        "name": "Авито",
+        "category": "marketplace"
+      }
+    ],
+    "meduza": [
+      {
+        "name": "Госуслуги",
+        "category": "government"
+      },
+      {
+        "name": "Ozon",
+        "category": "marketplace"
+      },
+      {
+        "name": "Wildberries",
+        "category": "marketplace"
+      },
+      {
+        "name": "DNS",
+        "category": "retail"
+      },
+      {
+        "name": "Детский мир",
+        "category": "retail"
+      },
+      {
+        "name": "Золотое яблоко",
+        "category": "retail"
+      },
+      {
+        "name": "Пятёрочка",
+        "category": "retail"
+      },
+      {
+        "name": "VK",
+        "category": "social"
+      },
+      {
+        "name": "Самокат",
+        "category": "delivery"
+      },
+      {
+        "name": "Кинопоиск",
+        "category": "streaming"
+      },
+      {
+        "name": "РЖД",
+        "category": "travel"
+      },
+      {
+        "name": "Авиасейлс",
+        "category": "travel"
+      },
+      {
+        "name": "2ГИС",
+        "category": "maps"
+      },
+      {
+        "name": "Яндекс Go",
+        "category": "yandex_services"
+      },
+      {
+        "name": "Яндекс Погода",
+        "category": "yandex_services"
+      },
+      {
+        "name": "Яндекс Пэй",
+        "category": "payments"
+      },
+      {
+        "name": "HeadHunter",
+        "category": "jobs"
+      }
+    ]
+  }
+}
